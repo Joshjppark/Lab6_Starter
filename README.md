@@ -1,1 +1,4 @@
-# Lab 7 - Starter
+# Lab 6 - Starter
+
+
+link: https://joshjppark.github.io/Lab6_Starter/
